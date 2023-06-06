@@ -1,0 +1,94 @@
+[
+  {
+    "tipo": "vehiculonuevo",
+    "modelo": "AAAA",
+    "puertas": "5",
+    "color": "Negro",
+    "precio_base": 99999.0,
+    "version": "full"
+  },
+  {
+    "tipo": "vehiculonuevo",
+    "modelo": "Palio",
+    "puertas": 4,
+    "color": "Rojo",
+    "precio_base": 50000.0,
+    "version": "base"
+  },
+  {
+    "tipo": "vehiculousado",
+    "modelo": "Focus",
+    "puertas": 5,
+    "color": "Azul",
+    "precio_base": 40000.0,
+    "marca": "Ford",
+    "patente": "ABC123",
+    "anio": 2018,
+    "kilometraje": 80000.0
+  },
+  {
+    "tipo": "vehiculonuevo",
+    "modelo": "Golf",
+    "puertas": 3,
+    "color": "Negro",
+    "precio_base": 60000.0,
+    "version": "full"
+  },
+  {
+    "tipo": "vehiculousado",
+    "modelo": "Corolla",
+    "puertas": 4,
+    "color": "Gris",
+    "precio_base": 45000.0,
+    "marca": "Toyota",
+    "patente": "DEF456",
+    "anio": 2015,
+    "kilometraje": 120000.0
+  },
+  {
+    "tipo": "vehiculonuevo",
+    "modelo": "Civic",
+    "puertas": 4,
+    "color": "Blanco",
+    "precio_base": 55000.0,
+    "version": "base"
+  },
+  {
+    "tipo": "vehiculousado",
+    "modelo": "A3",
+    "puertas": 3,
+    "color": "Plateado",
+    "precio_base": 48000.0,
+    "marca": "Audi",
+    "patente": "GHI789",
+    "anio": 2017,
+    "kilometraje": 90000.0
+  },
+  {
+    "tipo": "vehiculonuevo",
+    "modelo": "Yaris",
+    "puertas": 5,
+    "color": "Rojo",
+    "precio_base": 52000.0,
+    "version": "full"
+  },
+  {
+    "tipo": "vehiculousado",
+    "modelo": "Fiesta",
+    "puertas": 5,
+    "color": "Verde",
+    "precio_base": 35000.0,
+    "marca": "Ford",
+    "patente": "JKL012",
+    "anio": 2016,
+    "kilometraje": 95000.0
+  },
+  {
+    "tipo": "vehiculonuevo",
+    "modelo": "BBB",
+    "puertas": "2",
+    "color": "Rojo",
+    "precio_base": 100000.0,
+    "version": "base"
+  }
+]
